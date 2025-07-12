@@ -27,18 +27,6 @@ portfolio/
 ├── images/            -> Folder for portfolio images
 └── README.txt         -> Project description (this file)
 
-Setup Instructions
-------------------
-1. Clone or download this repo:
-       git clone https://github.com/YourUsername/portfolio.git
-
-2. Open `index.html` in any browser to view the site locally.
-
-3. To deploy online (GitHub Pages):
-   - Push to a GitHub repository
-   - Go to Settings > Pages > Select "main" branch and root
-   - Your site will be live at: https://YourUsername.github.io/portfolio/
-
 Customization
 -------------
 - Edit `index.html` to update your name, bio, and links
